@@ -91,7 +91,7 @@ Copyright
 
 Copyright 2015, Alexander Kuznetsov &lt;alexkuz@gmail.com&gt;
 
-This project uses transliteration tables from Python [Unidecode](https://github.com/iki/unidecode) library:
+This project uses transliteration tables from Python [Unidecode](https://github.com/avian2/unidecode) library:
 
 Original character transliteration tables:
 
@@ -99,4 +99,4 @@ Copyright 2001, Sean M. Burke &lt;sburke@cpan.org&gt;, all rights reserved.
 
 Python code and later additions:
 
-Copyright 2011, Tomaz Solc &lt;tomaz@zemanta.com&gt;
+Copyright 2011, Tomaz Solc &lt;tomaz.solc@tablix.org&gt;
